@@ -301,6 +301,6 @@ O X se consolidou como uma das plataformas mais influentes e relevantes da inter
 
 A história da comunicação é, na essência, a história da humanidade encontrando novas formas de criar laços e compartilhar ideias.
 
-Da linguagem falada à “internet“, cada avanço transformou não apenas a forma como trocamos informações, mas também a maneira como vivemos.Hoje estamos mais conectados do que nunca, e o futuro promete mudanças ainda mais profundas.
+Da linguagem falada à “internet“, cada avanço transformou não apenas a forma como trocamos informações, mas também a maneira como vivemos. Hoje estamos mais conectados do que nunca, e o futuro promete mudanças ainda mais profundas.
 
 A pergunta é: Como será a próxima revolução da comunicação?
