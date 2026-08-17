@@ -34,4 +34,6 @@ O kernel não é uma entidade estática; ele pode ser personalizado e otimizado 
 
 ## Considerações
 
-Em resumo, o kernel é o "cérebro" invisível por trás de um sistema operacional, garantindo que todas as operações essenciais para o funcionamento do computador ocorram de maneira eficiente e segura. É uma peça fundamental que possibilita a interação entre hardware, software e usuários, proporcionando uma experiência de computação estável e eficaz.
+Em resumo, o kernel é o núcleo do sistema operacional e atua como uma camada fundamental entre o hardware e os demais componentes de software. Ele gerencia recursos como processador, memória, dispositivos de armazenamento e periféricos, permitindo que os programas utilizem esses recursos de maneira controlada, eficiente e segura.
+
+Dessa forma, o kernel desempenha um papel fundamental na comunicação entre hardware e software, proporcionando as condições necessárias para o funcionamento estável do sistema operacional.
