@@ -8,13 +8,19 @@ O hardware refere-se aos componentes físicos de um computador ou dispositivo el
 
 ## Componentes Comuns de Hardware
 
-Unidade Central de Processamento (CPU): O "cérebro" do computador, responsável por executar instruções e processar dados.
-Memória RAM: Memória volátil que armazena temporariamente dados e instruções enquanto o computador está em uso.
-Discos Rígidos (HD) e Solid State Drives (SSD): Dispositivos de armazenamento de dados, com os SSDs oferecendo velocidades de acesso mais rápidas.
-Placa-mãe: A placa principal que conecta todos os componentes do hardware e permite a comunicação entre eles.
-Placas de Vídeo: Dispositivos responsáveis pelo processamento e exibição de gráficos e imagens no monitor.
-Dispositivos Periféricos: Equipamentos externos como teclados, mouses, impressoras e monitores que interagem com o computador.
-Fontes de Alimentação: Fornecem a energia elétrica necessária para o funcionamento dos componentes do hardware.
+**Unidade Central de Processamento (CPU):** O "cérebro" do computador, responsável por executar instruções e processar dados.
+
+**Memória RAM:** Memória volátil que armazena temporariamente dados e instruções enquanto o computador está em uso.
+
+**Discos Rígidos (HD) e Solid State Drives (SSD):** Dispositivos de armazenamento de dados, com os SSDs oferecendo velocidades de acesso mais rápidas.
+
+**Placa-mãe:** A placa principal que conecta todos os componentes do hardware e permite a comunicação entre eles.
+
+**Placas de Vídeo:** Dispositivos responsáveis pelo processamento e exibição de gráficos e imagens no monitor.
+
+**Dispositivos Periféricos:** Equipamentos externos como teclados, mouses, impressoras e monitores que interagem com o computador.
+
+**Fontes de Alimentação:** Fornecem a energia elétrica necessária para o funcionamento dos componentes do hardware.
 
 
 ---
